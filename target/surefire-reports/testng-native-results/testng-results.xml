@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-17T15:13:14 BRT" name="Surefire suite" finished-at="2023-08-17T15:13:18 BRT" duration-ms="3750">
+    <groups>
+    </groups>
+    <test started-at="2023-08-17T15:13:14 BRT" name="Surefire test" finished-at="2023-08-17T15:13:18 BRT" duration-ms="3750">
+      <class name="com.meuteste.ReqResApiTest">
+        <test-method signature="testListUsers()[pri:0, instance:com.meuteste.ReqResApiTest@776aec5c]" started-at="2023-08-17T15:13:14 BRT" name="testListUsers" finished-at="2023-08-17T15:13:18 BRT" duration-ms="3718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testListUsers -->
+      </class> <!-- com.meuteste.ReqResApiTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
